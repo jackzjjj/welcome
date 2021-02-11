@@ -16,7 +16,7 @@ The way the cool kids work in 2021
 plus other stuff
 
 ## A bit about me
-Crypto head and product manager. I find community governance super interesting, with many flaws and lots of potential. Proud generalist. Economics grad. 
+Crypto head and product manager. I find community governance super interesting, flaws and lots of potential. Proud generalist. Economics grad. 
 
 ***Truth unadorned is often ignored***
 
