@@ -16,4 +16,4 @@ Crypto head and product manager working with the open source community. Proud ge
 ***Truth unadorned is often ignored***
 
 ## Contact
-twitter @jackzjjj
+twitter @zkwaffles
