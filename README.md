@@ -13,7 +13,7 @@ The way the cool kids work in 2021
 * Process improvement
 * Feature specs
 
-plus other stuff
+[Let's work together on Gitcoin](https://gitcoin.co/jackzjjj)
 
 ## A bit about me
 Crypto head and product manager. I find community governance super interesting, flaws and lots of potential. Proud generalist. Economics grad. 
