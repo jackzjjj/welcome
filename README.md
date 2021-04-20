@@ -7,7 +7,7 @@ Thanks for visiting! Let's test out ideas and make awesome random things. If eve
 - nimble and dynamic systems that enable the best work
 
 ## Bounties
-The way the cool kids work in 2021
+It's like working, but in the future
 
 * Research & documentation
 * Process improvement
